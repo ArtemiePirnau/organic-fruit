@@ -1,9 +1,9 @@
 ![{46DDFA33-772B-4F83-B004-18B9621A0C77}](https://github.com/user-attachments/assets/dc70be22-afa7-4421-a0a4-b75302ec5a81)
 
 # Description
-That's a pet project
+My first template after a half-year break
 
-A template about Human mission to Mars.
+I tried to do something more serious.
 
 ## What i used :
 
